@@ -1,5 +1,5 @@
 {
-  "name": "termux-whatsapp-bot",
+  "name": "Ray white",
   "version": "0.0.2",
   "description": "Only termux",
   "main": "index.js",
@@ -41,7 +41,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NazwaS/termux-whatsapp-bot.git"
+    "url": "git+https://github.com/robinthebank123/termux-whatsapp-bot.git"
   },
   "bugs": {
     "url": "https://github.com/NazwaS/termux-whatsapp-bot/issues"
